@@ -1,0 +1,260 @@
+cellname,celltype
+unknown,somatic
+16-cell germline cyst in germarium region 2a and 2b,Fgermline
+adult abdominal pericardial cell,somatic
+adult alary muscle,somatic
+adult brain cell body glial cell,somatic
+adult brain perineurial glial cell,somatic
+adult differentiating enterocyte,somatic
+adult enterocyte,somatic
+adult esophagus,somatic
+adult fat body,somatic
+adult glial cell,somatic
+adult heart,somatic
+adult heart ventral longitudinal muscle,somatic
+adult hindgut,somatic
+adult lamina epithelial/marginal glial cell,somatic
+adult lobula astrocyte-like glial cell,somatic
+adult Malpighian tubule,somatic
+adult Malpighian tubule bar-shaped cell of initial segment,somatic
+adult Malpighian tubule principal cell,somatic
+adult Malpighian tubule principal cell of initial segment,somatic
+adult Malpighian tubule principal cell of lower segment,somatic
+adult Malpighian tubule principal cell of lower ureter,somatic
+adult Malpighian tubule principal cell subtype,somatic
+adult Malpighian tubule stellate cell of main segment,somatic
+adult Malpighian tubule Type I cell,somatic
+adult midgut,somatic
+adult midgut enterocyte,somatic
+adult midgut-hindgut hybrid zone,somatic
+adult neuron,somatic
+adult oenocyte,somatic
+"adult olfactory receptor neuron acid-sensing, Ir64a",somatic
+"adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a",somatic
+adult olfactory receptor neuron Gr21a/63a,somatic
+"adult olfactory receptor neuron Ir56a+, Orco-",somatic
+adult olfactory receptor neuron Ir75d,somatic
+"adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a",somatic
+adult olfactory receptor neuron Or13a,somatic
+"adult olfactory receptor neuron Or22a, Or42b, Or59b",somatic
+"adult olfactory receptor neuron Or47a, Or56a and likely other ORN types",somatic
+adult olfactory receptor neuron Or47b,somatic
+adult olfactory receptor neuron Or65,somatic
+adult olfactory receptor neuron Or67a and likely other unknown ORN types,somatic
+adult olfactory receptor neuron Or67d,somatic
+adult olfactory receptor neuron Or83c and Or82a,somatic
+"adult olfactory receptor neuron Or85a, Or43b",somatic
+adult olfactory receptor neuron Or88a,somatic
+adult olfactory receptor neuron Or92a,somatic
+"adult olfactory receptor neuron unknown type, Orco-",somatic
+"adult olfactory receptor neuron unknown type, Orco+",somatic
+adult optic chiasma glial cell,somatic
+adult ostium,somatic
+adult peripheral nervous system,somatic
+adult peripheral neuron of the heart,somatic
+adult pylorus,somatic
+adult renal stem cell,somatic
+adult reticular neuropil associated glial cell,somatic
+adult salivary gland,somatic
+adult tracheocyte,somatic
+adult ventral nervous system,somatic
+alpha'/beta' Kenyon cell,somatic
+alpha/beta Kenyon cell,somatic
+antennal lobe projection neuron,somatic
+antennal trichoid sensillum at4,somatic
+anterior ejaculatory duct,Msomatic
+antimicrobial peptide-producing cell,somatic
+"arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b",somatic
+auditory sensory neuron,somatic
+bitter-sensitive labellar taste bristle,somatic
+btl-GAL4 positive female cell 1 - likely to be ovary cell,Fgermline
+btl-GAL4 positive female cell 2 - likely to be ovary cell,Fgermline
+btl-GAL4 positive female cell 3 - likely to be ovary cell,Fgermline
+btl-GAL4 positive female cell 4 - likely to be ovary cell sim positive,Fgermline
+"btl-GAL4 positive female cell 5 - likely to be ovary cell sim+, H15+",Fgermline
+cardial cell,somatic
+cell body glial cell,somatic
+central main body follicle cell ca. St. 6-8,Fsomatic
+centrifugal neuron C2,somatic
+centrifugal neuron C3,somatic
+choriogenic main body follicle cell and corpus luteum,Fsomatic
+choriogenic main body follicle cell St. 12,Fsomatic
+choriogenic main body follicle cell St. 14,Fsomatic
+CNS surface associated glial cell,somatic
+columnar neuron T1,somatic
+cone cell,somatic
+copper cell,somatic
+crop,somatic
+crystal cell,somatic
+cyst cell branch a,Msomatic
+cyst cell branch b,Msomatic
+cyst cell intermediate,Msomatic
+cyst stem cell,Msomatic
+distal medullary amacrine neuron Dm10,somatic
+distal medullary amacrine neuron Dm11,somatic
+distal medullary amacrine neuron Dm12,somatic
+distal medullary amacrine neuron Dm3,somatic
+distal medullary amacrine neuron Dm8,somatic
+distal medullary amacrine neuron Dm9,somatic
+dopaminergic neuron,somatic
+dopaminergic PAM neuron,somatic
+dorsal appendage forming follicle cell,Fsomatic
+dorsal rim area,somatic
+early cyst cell 1,Msomatic
+early cyst cell 2,Msomatic
+early elongation stage spermatid,Mgermline
+early-mid elongation-stage spermatid,Mgermline
+ejaculatory bulb,Msomatic
+ejaculatory bulb epithelium,Msomatic
+ensheathing glial cell,somatic
+enteroblast,somatic
+enterocyte of anterior adult midgut epithelium,somatic
+enterocyte of posterior adult midgut epithelium,somatic
+enterocyte-like,somatic
+enteroendocrine cell,somatic
+eo support cell,somatic
+epidermal cell of the abdominal posterior compartment,somatic
+epidermal cell that specialized in antimicrobial response,somatic
+epithelial cell,somatic
+epithelium of male gonad,Msomatic
+escort cell,Fsomatic
+eye photoreceptor cell,somatic
+female reproductive system,Fsomatic
+follicle cell,Fsomatic
+follicle cell St. 9+,Fsomatic
+follicle stem cell and prefollicle cell,Fsomatic
+gamma Kenyon cell,somatic
+germ cell stage 4 and later,Fgermline
+germinal proliferation center hub,Msomatic
+germline cell,Fgermline
+"germline cell, unknown stage",Fgermline
+glial cell of adult antennal nerve,somatic
+gustatory receptor neuron,somatic
+gustatory receptor neuron of the labellum,somatic
+head cyst cell,Msomatic
+hemocyte,somatic
+indirect flight muscle,somatic
+intestinal stem cell,somatic
+Johnston organ neuron,somatic
+Kenyon cell,somatic
+labral sense organ mechanosensory neuron,somatic
+lamina intrinsic amacrine neuron Lai,somatic
+lamina monopolar neuron L1,somatic
+lamina monopolar neuron L2,somatic
+lamina monopolar neuron L3,somatic
+lamina monopolar neuron L4,somatic
+lamina monopolar neuron L5,somatic
+lamina wide-field 1 neuron,somatic
+lamina wide-field 2 neuron,somatic
+late cyst cell branch a,Msomatic
+late cyst cell branch b,Msomatic
+late primary spermatocyte,Mgermline
+leg muscle motor neuron,somatic
+leg taste bristle chemosensory neuron,somatic
+lobula columnar neuron LC10,somatic
+lobula columnar neuron LC12,somatic
+lobula columnar neuron LC17,somatic
+main body follicle cell ca. until St. 5,Fsomatic
+male accessory gland,Msomatic
+male accessory gland main cell,Msomatic
+male accessory gland secondary cell,Msomatic
+male germline differentiating cell,Mgermline
+Malpighian tubule,somatic
+maturing primary spermatocyte,Mgermline
+maxillary palp olfactory receptor neuron,somatic
+maxillary palpus,somatic
+mechanosensory neuron,somatic
+mechanosensory neuron of haltere,somatic
+mechanosensory neuron of leg chordotonal organ,somatic
+medullary intrinsic neuron Mi1,somatic
+medullary intrinsic neuron Mi15,somatic
+medullary intrinsic neuron Mi4,somatic
+medullary intrinsic neuron Mi9,somatic
+mid-late elongation-stage spermatid,Mgermline
+mid-late proliferating spermatogonia,Mgermline
+midgut,somatic
+midgut large flat cell,somatic
+multidendritic neuron,somatic
+muscle cell,somatic
+neuron of haltere,somatic
+nociceptive neuron,somatic
+ocellus retinula cell,somatic
+octopaminergic/tyraminergic neuron,somatic
+olfactory receptor neuron,somatic
+olfactory receptor neuron - coeloconics,somatic
+optic-lobe-associated cortex glial cell,somatic
+outer photoreceptor cell,somatic
+ovarian sheath muscle,Fsomatic
+ovary cell,Fgermline
+oviduct,Fsomatic
+pericerebral adult fat mass,somatic
+perineurial glial sheath,somatic
+peripheral glial cell,somatic
+pheromone-sensing neuron,somatic
+photoreceptor,somatic
+photoreceptor cell R7,somatic
+photoreceptor cell R8,somatic
+photoreceptor-like,somatic
+pigment cell,somatic
+polar follicle cell,Fsomatic
+post-mitotic endocycling nurse cell,Fsomatic
+post-mitotic germ cell early 16-cell cyst,Fgermline
+posterior midgut,somatic
+posterior terminal follicle cell ca. St. 5-8,Fsomatic
+Poxn neuron,somatic
+prefollicle cell/stalk follicle cell,Fsomatic
+principal cell,somatic
+proventriculus 1,somatic
+proventriculus 2,somatic
+proximal medullary amacrine neuron Pm2,somatic
+proximal medullary amacrine neuron Pm4,somatic
+sacculus/arista neuron,somatic
+salivary gland,somatic
+scolopidial neuron,somatic
+secretory cell of the male reproductive tract,Msomatic
+seminal vesicle,Msomatic
+sensory neuron,somatic
+skeletal muscle of head,somatic
+spermatid,Mgermline
+spermatocyte,Mgermline
+spermatocyte 0,Mgermline
+spermatocyte 1,Mgermline
+spermatocyte 2,Mgermline
+spermatocyte 3,Mgermline
+spermatocyte 4,Mgermline
+spermatocyte 5,Mgermline
+spermatocyte 6,Mgermline
+spermatocyte 7a,Mgermline
+spermatocyte cyst cell branch a,Msomatic
+spermatocyte cyst cell branch b,Msomatic
+spermatogonium,Mgermline
+spermatogonium-spermatocyte transition,Mgermline
+stalk follicle cell,Fsomatic
+stretch follicle cell,Fsomatic
+subperineurial glial cell,somatic
+T neuron T2,somatic
+T neuron T2a,somatic
+T neuron T3,somatic
+T neuron T4/T5,somatic
+T neuron T4/T5a-b,somatic
+T neuron T4/T5c-d,somatic
+tendon cell,somatic
+testis,Msomatic
+testis sheath muscle,Msomatic
+tormogen cell,somatic
+transmedullary neuron Tm1,somatic
+transmedullary neuron Tm2,somatic
+transmedullary neuron Tm20,somatic
+transmedullary neuron Tm29,somatic
+transmedullary neuron Tm3a,somatic
+transmedullary neuron Tm4,somatic
+transmedullary neuron Tm5c,somatic
+transmedullary neuron Tm9,somatic
+transmedullary Y neuron TmY14,somatic
+transmedullary Y neuron TmY4,somatic
+transmedullary Y neuron TmY5a,somatic
+transmedullary Y neuron TmY8,somatic
+visceral muscle,somatic
+visceral muscle of the crop,somatic
+visceral muscle of the midgut,somatic
+young germ cell,Fgermline

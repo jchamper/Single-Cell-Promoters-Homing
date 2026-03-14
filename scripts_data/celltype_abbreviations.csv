@@ -1,0 +1,260 @@
+cell_type,Abbreviation
+unknown,U
+16-cell germline cyst in germarium region 2a and 2b,1CGCI
+adult abdominal pericardial cell,AAPC
+adult alary muscle,AAM
+adult brain cell body glial cell,ABCBG
+adult brain perineurial glial cell,ABPGC
+adult differentiating enterocyte,ADE
+adult enterocyte,AE
+adult esophagus,AE1
+adult fat body,AFB
+adult glial cell,AGC
+adult heart,AH
+adult heart ventral longitudinal muscle,AHVLM
+adult hindgut,AH1
+adult lamina epithelial/marginal glial cell,ALEMG
+adult lobula astrocyte-like glial cell,ALALG
+adult Malpighian tubule,AMT
+adult Malpighian tubule bar-shaped cell of initial segment,AMTBS
+adult Malpighian tubule principal cell,AMTPC
+adult Malpighian tubule principal cell of initial segment,AMTP1
+adult Malpighian tubule principal cell of lower segment,AMTP2
+adult Malpighian tubule principal cell of lower ureter,AMTP3
+adult Malpighian tubule principal cell subtype,AMTP4
+adult Malpighian tubule stellate cell of main segment,AMTSC
+adult Malpighian tubule Type I cell,AMTTI
+adult midgut,AM
+adult midgut enterocyte,AME
+adult midgut-hindgut hybrid zone,AMHHZ
+adult neuron,AN
+adult oenocyte,AO
+"adult olfactory receptor neuron acid-sensing, Ir64a",AORNA
+"adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a",AORN1
+adult olfactory receptor neuron Gr21a/63a,AORNG
+"adult olfactory receptor neuron Ir56a+, Orco-",AORNI
+adult olfactory receptor neuron Ir75d,AORN2
+"adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a",AORN3
+adult olfactory receptor neuron Or13a,AORNO
+"adult olfactory receptor neuron Or22a, Or42b, Or59b",AORN4
+"adult olfactory receptor neuron Or47a, Or56a and likely other ORN types",AORN5
+adult olfactory receptor neuron Or47b,AORN6
+adult olfactory receptor neuron Or65,AORN7
+adult olfactory receptor neuron Or67a and likely other unknown ORN types,AORN8
+adult olfactory receptor neuron Or67d,AORN9
+adult olfactory receptor neuron Or83c and Or82a,AOR10
+"adult olfactory receptor neuron Or85a, Or43b",AOR11
+adult olfactory receptor neuron Or88a,AOR12
+adult olfactory receptor neuron Or92a,AOR13
+"adult olfactory receptor neuron unknown type, Orco-",AORNU
+"adult olfactory receptor neuron unknown type, Orco+",AOR14
+adult optic chiasma glial cell,AOCGC
+adult ostium,AO1
+adult peripheral nervous system,APNS
+adult peripheral neuron of the heart,APNOT
+adult pylorus,AP
+adult renal stem cell,ARSC
+adult reticular neuropil associated glial cell,ARNAG
+adult salivary gland,ASG
+adult tracheocyte,AT
+adult ventral nervous system,AVNS
+alpha'/beta' Kenyon cell,ABKC
+alpha/beta Kenyon cell,ABKC1
+antennal lobe projection neuron,ALPN
+antennal trichoid sensillum at4,ATSA
+anterior ejaculatory duct,AED
+antimicrobial peptide-producing cell,APPC
+"arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b",AASTA
+auditory sensory neuron,ASN
+bitter-sensitive labellar taste bristle,BSLTB
+btl-GAL4 positive female cell 1 - likely to be ovary cell,BGPF1
+btl-GAL4 positive female cell 2 - likely to be ovary cell,BGPF2
+btl-GAL4 positive female cell 3 - likely to be ovary cell,BGPF3
+btl-GAL4 positive female cell 4 - likely to be ovary cell sim positive,BGPF4
+"btl-GAL4 positive female cell 5 - likely to be ovary cell sim+, H15+",BGPF5
+cardial cell,CC
+cell body glial cell,CBGC
+central main body follicle cell ca. St. 6-8,CMBFC
+centrifugal neuron C2,CNC
+centrifugal neuron C3,CNC1
+choriogenic main body follicle cell and corpus luteum,CMBF1
+choriogenic main body follicle cell St. 12,CMBF2
+choriogenic main body follicle cell St. 14,CMBF3
+CNS surface associated glial cell,CSAGC
+columnar neuron T1,CNT
+cone cell,CC1
+copper cell,CC2
+crop,C
+crystal cell,CC3
+cyst cell branch a,CCBA
+cyst cell branch b,CCBB
+cyst cell intermediate,CCI
+cyst stem cell,CSC
+distal medullary amacrine neuron Dm10,DMAN0
+distal medullary amacrine neuron Dm11,DMAN1
+distal medullary amacrine neuron Dm12,DMAN2
+distal medullary amacrine neuron Dm3,DMAN3
+distal medullary amacrine neuron Dm8,DMAN8
+distal medullary amacrine neuron Dm9,DMAN9
+dopaminergic neuron,DN
+dopaminergic PAM neuron,DPN
+dorsal appendage forming follicle cell,DAFFC
+dorsal rim area,DRA
+early cyst cell 1,ECC1
+early cyst cell 2,ECC2
+early elongation stage spermatid,EESS
+early-mid elongation-stage spermatid,EMESS
+ejaculatory bulb,EB
+ejaculatory bulb epithelium,EBE
+ensheathing glial cell,EGC
+enteroblast,E
+enterocyte of anterior adult midgut epithelium,EOAAM
+enterocyte of posterior adult midgut epithelium,EOPAM
+enterocyte-like,EL
+enteroendocrine cell,EC
+eo support cell,ESC
+epidermal cell of the abdominal posterior compartment,ECOTA
+epidermal cell that specialized in antimicrobial response,ECTSI
+epithelial cell,EC1
+epithelium of male gonad,EOMG
+escort cell,EC2
+eye photoreceptor cell,EPC
+female reproductive system,FRS
+follicle cell,FC
+follicle cell St. 9+,FCS9
+follicle stem cell and prefollicle cell,FSCAP
+gamma Kenyon cell,GKC
+germ cell stage 4 and later,GCS4A
+germinal proliferation center hub,GPCH
+germline cell,GC
+"germline cell, unknown stage",GCUS
+glial cell of adult antennal nerve,GCOAA
+gustatory receptor neuron,GRN
+gustatory receptor neuron of the labellum,GRNOT
+head cyst cell,HCC
+hemocyte,H
+indirect flight muscle,IFM
+intestinal stem cell,ISC
+Johnston organ neuron,JON
+Kenyon cell,KC
+labral sense organ mechanosensory neuron,LSOMN
+lamina intrinsic amacrine neuron Lai,LIANL
+lamina monopolar neuron L1,LMNL1
+lamina monopolar neuron L2,LMNL2
+lamina monopolar neuron L3,LMNL3
+lamina monopolar neuron L4,LMNL4
+lamina monopolar neuron L5,LMNL5
+lamina wide-field 1 neuron,LWF1N
+lamina wide-field 2 neuron,LWF2N
+late cyst cell branch a,LCCBA
+late cyst cell branch b,LCCBB
+late primary spermatocyte,LPS
+leg muscle motor neuron,LMMN
+leg taste bristle chemosensory neuron,LTBCN
+lobula columnar neuron LC10,LCNL0
+lobula columnar neuron LC12,LCNL2
+lobula columnar neuron LC17,LCNL7
+main body follicle cell ca. until St. 5,MBFCC
+male accessory gland,MAG
+male accessory gland main cell,MAGMC
+male accessory gland secondary cell,MAGSC
+male germline differentiating cell,MGDC
+Malpighian tubule,MT
+maturing primary spermatocyte,MPS
+maxillary palp olfactory receptor neuron,MPORN
+maxillary palpus,MP
+mechanosensory neuron,MN
+mechanosensory neuron of haltere,MNOH
+mechanosensory neuron of leg chordotonal organ,MNOLC
+medullary intrinsic neuron Mi1,MINM
+medullary intrinsic neuron Mi15,MINM1
+medullary intrinsic neuron Mi4,MINM2
+medullary intrinsic neuron Mi9,MINM3
+mid-late elongation-stage spermatid,MLESS
+mid-late proliferating spermatogonia,MLPS
+midgut,M
+midgut large flat cell,MLFC
+multidendritic neuron,MN1
+muscle cell,MC
+neuron of haltere,NOH
+nociceptive neuron,NN
+ocellus retinula cell,ORC
+octopaminergic/tyraminergic neuron,OTN
+olfactory receptor neuron,ORN
+olfactory receptor neuron - coeloconics,ORNC
+optic-lobe-associated cortex glial cell,OLACG
+outer photoreceptor cell,OPC
+ovarian sheath muscle,OSM
+ovary cell,OC
+oviduct,O
+pericerebral adult fat mass,PAFM
+perineurial glial sheath,PGS
+peripheral glial cell,PGC
+pheromone-sensing neuron,PSN
+photoreceptor,P
+photoreceptor cell R7,PCR
+photoreceptor cell R8,PCR1
+photoreceptor-like,PL
+pigment cell,PC
+polar follicle cell,PFC
+post-mitotic endocycling nurse cell,PMENC
+post-mitotic germ cell early 16-cell cyst,PMGCE
+posterior midgut,PM
+posterior terminal follicle cell ca. St. 5-8,PTFCC
+Poxn neuron,PN
+prefollicle cell/stalk follicle cell,PCSFC
+principal cell,PC1
+proventriculus 1,P1
+proventriculus 2,P2
+proximal medullary amacrine neuron Pm2,PMANP
+proximal medullary amacrine neuron Pm4,PMAN1
+sacculus/arista neuron,SAN
+salivary gland,SG
+scolopidial neuron,SN
+secretory cell of the male reproductive tract,SCOTM
+seminal vesicle,SV
+sensory neuron,SN1
+skeletal muscle of head,SMOH
+spermatid,S
+spermatocyte,SCYTE
+spermatocyte 0,S0
+spermatocyte 1,S1
+spermatocyte 2,S2
+spermatocyte 3,S3
+spermatocyte 4,S4
+spermatocyte 5,S5
+spermatocyte 6,S6
+spermatocyte 7a,S7
+spermatocyte cyst cell branch a,SCCBA
+spermatocyte cyst cell branch b,SCCBB
+spermatogonium,S8
+spermatogonium-spermatocyte transition,SST
+stalk follicle cell,SFC
+stretch follicle cell,SFC1
+subperineurial glial cell,SGC
+T neuron T2,TNT2
+T neuron T2a,TNT2A
+T neuron T3,TNT3
+T neuron T4/T5,TNT45
+T neuron T4/T5a-b,TNT45A
+T neuron T4/T5c-d,TNT45C
+tendon cell,TC
+testis,T
+testis sheath muscle,TSM
+tormogen cell,TC1
+transmedullary neuron Tm1,TNTM1
+transmedullary neuron Tm2,TNTM2
+transmedullary neuron Tm20,TNTM20
+transmedullary neuron Tm29,TNTM29
+transmedullary neuron Tm3a,TNTM3A
+transmedullary neuron Tm4,TNTM4
+transmedullary neuron Tm5c,TNTM5
+transmedullary neuron Tm9,TNTM9
+transmedullary Y neuron TmY14,TYNT
+transmedullary Y neuron TmY4,TYNT1
+transmedullary Y neuron TmY5a,TYNT2
+transmedullary Y neuron TmY8,TYNT3
+visceral muscle,VM
+visceral muscle of the crop,VMOTC
+visceral muscle of the midgut,VMOTM
+young germ cell,YGC
